@@ -1,0 +1,22 @@
+{
+    "name": "UnityTcp.Editor",
+    "rootNamespace": "UnityTcp.Editor",
+    "references": [
+        "Cn.Tuanjie.Codely.Editor",
+        "Codely.Logging"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Codely.Newtonsoft.Json.dll",
+        "Codely.Roslyn.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
