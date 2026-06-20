@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91a71cba330f67b41843eebbe7259def, type: 3}
+  m_Name: ActivityDefinition_DeepWork
+  m_EditorClassIdentifier: 
+  activityTypeId: deep_work
+  displayName: Deep Work
+  domain: 2
+  defaultSkillId: logic
+  xpPerHour: 15
+  defaultFocus: 5
+  defaultIntensity: 4
+  defaultCognitiveLoad: 4
+  defaultEnergyCost: 3
+  defaultMood: 0

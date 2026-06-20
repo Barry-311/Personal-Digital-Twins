@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639172070188143204
-    m_Hash: 1113614655
+      ticks: 639175269766773179
+    m_Hash: 182805067
   m_LockFileStatus:
     m_FilePath: F:/PDT/Personal-Digital-Twins/Personal Digital Twins/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639172070188300136
-    m_Hash: 2630605705
+      ticks: 639175270194613125
+    m_Hash: 3850327085
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,154 +22,6 @@ m_LocalPackages:
 m_ProjectPath: F:/PDT/Personal-Digital-Twins/Personal Digital Twins/Packages
 m_EditorVersion: 2022.3.62t9 (332340d7072c)
 m_ResolvedPackages:
-- packageId: cn.tuanjie.codely.bridge@1.0.60
-  testable: 0
-  isDirectDependency: 1
-  version: 1.0.60
-  source: 1
-  resolvedPath: F:\PDT\Personal-Digital-Twins\Personal Digital Twins\Library\PackageCache\cn.tuanjie.codely.bridge@1.0.60
-  assetPath: Packages/cn.tuanjie.codely.bridge
-  name: cn.tuanjie.codely.bridge
-  displayName: Codely Bridge
-  author:
-    name: Yousandi Technologies
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: TCP socket server for Unity Editor with port management and client
-    handling capabilities
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 1.0.6
-    - 1.0.7
-    - 1.0.8
-    - 1.0.9
-    - 1.0.10
-    - 1.0.11
-    - 1.0.12
-    - 1.0.13
-    - 1.0.14
-    - 1.0.15
-    - 1.0.16
-    - 1.0.17
-    - 1.0.18
-    - 1.0.19
-    - 1.0.20
-    - 1.0.21
-    - 1.0.22
-    - 1.0.23
-    - 1.0.25
-    - 1.0.26
-    - 1.0.27
-    - 1.0.30
-    - 1.0.31
-    - 1.0.32
-    - 1.0.33
-    - 1.0.34
-    - 1.0.35
-    - 1.0.36
-    - 1.0.37
-    - 1.0.39
-    - 1.0.40
-    - 1.0.42
-    - 1.0.49
-    - 1.0.51
-    - 1.0.52
-    - 1.0.53
-    - 1.0.54
-    - 1.0.55
-    - 1.0.57
-    - 1.0.58
-    - 1.0.59
-    - 1.0.60
-    compatible:
-    - 1.0.6
-    - 1.0.7
-    - 1.0.8
-    - 1.0.9
-    - 1.0.10
-    - 1.0.11
-    - 1.0.12
-    - 1.0.13
-    - 1.0.14
-    - 1.0.15
-    - 1.0.16
-    - 1.0.17
-    - 1.0.18
-    - 1.0.19
-    - 1.0.20
-    - 1.0.21
-    - 1.0.22
-    - 1.0.23
-    - 1.0.25
-    - 1.0.26
-    - 1.0.27
-    - 1.0.30
-    - 1.0.31
-    - 1.0.32
-    - 1.0.33
-    - 1.0.34
-    - 1.0.35
-    - 1.0.36
-    - 1.0.37
-    - 1.0.39
-    - 1.0.40
-    - 1.0.42
-    - 1.0.49
-    - 1.0.51
-    - 1.0.52
-    - 1.0.53
-    - 1.0.54
-    - 1.0.55
-    - 1.0.57
-    - 1.0.58
-    - 1.0.59
-    - 1.0.60
-    recommended: 
-    deprecated: []
-  dependencies:
-  - name: com.unity.ext.nunit
-    version: 1.0.6
-  resolvedDependencies:
-  - name: com.unity.ext.nunit
-    version: 1.0.6
-  keywords:
-  - tcp
-  - socket
-  - networking
-  - server
-  - editor
-  - tools
-  registry:
-    id: main
-    name: 
-    url: https://packages.tuanjie.cn
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 639171096740000000
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  fingerprint: 
 - packageId: com.unity.collab-proxy@2.12.4
   testable: 0
   isDirectDependency: 1
@@ -2857,6 +2709,228 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
+- packageId: cn.tuanjie.codely.bridge@1.0.62
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.62
+  source: 1
+  resolvedPath: F:\PDT\Personal-Digital-Twins\Personal Digital Twins\Library\PackageCache\cn.tuanjie.codely.bridge@1.0.62
+  assetPath: Packages/cn.tuanjie.codely.bridge
+  name: cn.tuanjie.codely.bridge
+  displayName: Codely Bridge
+  author:
+    name: Yousandi Technologies
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: TCP socket server for Unity Editor with port management and client
+    handling capabilities
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.6
+    - 1.0.7
+    - 1.0.8
+    - 1.0.9
+    - 1.0.10
+    - 1.0.11
+    - 1.0.12
+    - 1.0.13
+    - 1.0.14
+    - 1.0.15
+    - 1.0.16
+    - 1.0.17
+    - 1.0.18
+    - 1.0.19
+    - 1.0.20
+    - 1.0.21
+    - 1.0.22
+    - 1.0.23
+    - 1.0.25
+    - 1.0.26
+    - 1.0.27
+    - 1.0.30
+    - 1.0.31
+    - 1.0.32
+    - 1.0.33
+    - 1.0.34
+    - 1.0.35
+    - 1.0.36
+    - 1.0.37
+    - 1.0.39
+    - 1.0.40
+    - 1.0.42
+    - 1.0.49
+    - 1.0.51
+    - 1.0.52
+    - 1.0.53
+    - 1.0.54
+    - 1.0.55
+    - 1.0.57
+    - 1.0.58
+    - 1.0.59
+    - 1.0.60
+    - 1.0.62
+    compatible:
+    - 1.0.6
+    - 1.0.7
+    - 1.0.8
+    - 1.0.9
+    - 1.0.10
+    - 1.0.11
+    - 1.0.12
+    - 1.0.13
+    - 1.0.14
+    - 1.0.15
+    - 1.0.16
+    - 1.0.17
+    - 1.0.18
+    - 1.0.19
+    - 1.0.20
+    - 1.0.21
+    - 1.0.22
+    - 1.0.23
+    - 1.0.25
+    - 1.0.26
+    - 1.0.27
+    - 1.0.30
+    - 1.0.31
+    - 1.0.32
+    - 1.0.33
+    - 1.0.34
+    - 1.0.35
+    - 1.0.36
+    - 1.0.37
+    - 1.0.39
+    - 1.0.40
+    - 1.0.42
+    - 1.0.49
+    - 1.0.51
+    - 1.0.52
+    - 1.0.53
+    - 1.0.54
+    - 1.0.55
+    - 1.0.57
+    - 1.0.58
+    - 1.0.59
+    - 1.0.60
+    - 1.0.62
+    recommended: 
+    deprecated: []
+  dependencies:
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  resolvedDependencies:
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  keywords:
+  - tcp
+  - socket
+  - networking
+  - server
+  - editor
+  - tools
+  registry:
+    id: main
+    name: 
+    url: https://packages.tuanjie.cn
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 639173725450000000
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  fingerprint: 
+- packageId: com.unity.ext.nunit@1.0.6
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.6
+  source: 1
+  resolvedPath: F:\PDT\Personal-Digital-Twins\Personal Digital Twins\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  assetPath: Packages/com.unity.ext.nunit
+  name: com.unity.ext.nunit
+  displayName: Custom NUnit
+  author:
+    name: 
+    email: 
+    url: 
+  category: Libraries
+  type: 
+  description: Custom version of the nunit package build to work with Unity. Used
+    by the Unity Test Framework.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.5-preview
+    - 0.1.6-preview
+    - 0.1.9-preview
+    - 1.0.0
+    - 1.0.5
+    - 1.0.6
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    compatible:
+    - 1.0.6
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    recommended: 1.0.6
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - nunit
+  - unittest
+  - test
+  registry:
+    id: main
+    name: 
+    url: https://packages.tuanjie.cn
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637429759280000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
+    revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
+    path: 
+  unityLifecycle:
+    version: 1.0.6
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  fingerprint: 
 - packageId: com.unity.modules.subsystems@1.0.0
   testable: 0
   isDirectDependency: 0
@@ -3585,78 +3659,6 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.2.6
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  fingerprint: 
-- packageId: com.unity.ext.nunit@1.0.6
-  testable: 0
-  isDirectDependency: 0
-  version: 1.0.6
-  source: 1
-  resolvedPath: F:\PDT\Personal-Digital-Twins\Personal Digital Twins\Library\PackageCache\com.unity.ext.nunit@1.0.6
-  assetPath: Packages/com.unity.ext.nunit
-  name: com.unity.ext.nunit
-  displayName: Custom NUnit
-  author:
-    name: 
-    email: 
-    url: 
-  category: Libraries
-  type: 
-  description: Custom version of the nunit package build to work with Unity. Used
-    by the Unity Test Framework.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 0.1.5-preview
-    - 0.1.6-preview
-    - 0.1.9-preview
-    - 1.0.0
-    - 1.0.5
-    - 1.0.6
-    - 2.0.2
-    - 2.0.3
-    - 2.0.4
-    - 2.0.5
-    compatible:
-    - 1.0.6
-    - 2.0.2
-    - 2.0.3
-    - 2.0.4
-    - 2.0.5
-    recommended: 1.0.6
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - nunit
-  - unittest
-  - test
-  registry:
-    id: main
-    name: 
-    url: https://packages.tuanjie.cn
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637429759280000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
-    revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
-    path: 
-  unityLifecycle:
-    version: 1.0.6
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0

@@ -1,0 +1,47 @@
+{
+    "currentState": {
+        "vitality": 68.0,
+        "focus": 73.0,
+        "stress": 16.0,
+        "fatigue": 40.0,
+        "socialEnergy": 50.0
+    },
+    "snapshots": [
+        {
+            "timestampLocal": "2026-06-20T19:31:22.4801838+08:00",
+            "state": {
+                "vitality": 50.0,
+                "focus": 58.0,
+                "stress": 17.0,
+                "fatigue": 22.0,
+                "socialEnergy": 50.0
+            },
+            "triggerEventId": "b60a227d58c245438beebdc3b463487d",
+            "triggerEventTitle": "Reading"
+        },
+        {
+            "timestampLocal": "2026-06-20T21:31:22.4655908+08:00",
+            "state": {
+                "vitality": 68.0,
+                "focus": 58.0,
+                "stress": 12.0,
+                "fatigue": 30.0,
+                "socialEnergy": 50.0
+            },
+            "triggerEventId": "c7f5ad8e817748f49fa2eb0d04893eca",
+            "triggerEventTitle": "Morning Workout"
+        },
+        {
+            "timestampLocal": "2026-06-20T22:42:40.4832389+08:00",
+            "state": {
+                "vitality": 68.0,
+                "focus": 73.0,
+                "stress": 16.0,
+                "fatigue": 40.0,
+                "socialEnergy": 50.0
+            },
+            "triggerEventId": "1d921a54e9174588ab4c56ed698aa24e",
+            "triggerEventTitle": "Deep Work"
+        }
+    ]
+}
